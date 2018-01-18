@@ -1,0 +1,10 @@
+name: sec_zero_day_windows
+title: Zero Day Windows
+maintainer: Apple-Sauce
+copyright: Apple-Sauce
+copyright_email: none
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.12
+supports:
+  - os-family: windows
